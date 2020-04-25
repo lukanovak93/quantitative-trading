@@ -1,3 +1,3 @@
 # quantitative-trading
 
-Lectures and solutions for quantopian.com/lectures
+Lectures and solutions for [quantopian.com/lectures](quantopian.com/lectures)
